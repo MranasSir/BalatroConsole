@@ -9,7 +9,7 @@ namespace BalatroConsole
         Hearts,
         Diamonds,
         Clubs,
-        Spades  
+        Spade  
 
 
 
