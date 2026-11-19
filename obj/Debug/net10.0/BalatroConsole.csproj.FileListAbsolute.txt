@@ -1,0 +1,16 @@
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\bin\Debug\net10.0\BalatroConsole.exe
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\bin\Debug\net10.0\BalatroConsole.deps.json
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\bin\Debug\net10.0\BalatroConsole.runtimeconfig.json
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\bin\Debug\net10.0\BalatroConsole.runtimeconfig.dev.json
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\bin\Debug\net10.0\BalatroConsole.dll
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\bin\Debug\net10.0\BalatroConsole.pdb
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\BalatroConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\BalatroConsole.AssemblyInfoInputs.cache
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\BalatroConsole.AssemblyInfo.cs
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\BalatroConsole.csproj.CoreCompileInputs.cache
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\BalatroConsole.dll
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\refint\BalatroConsole.dll
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\BalatroConsole.pdb
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\BalatroConsole.genruntimeconfig.cache
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\ref\BalatroConsole.dll
+C:\Users\Eloua\source\repos\BalatroConsole\BalatroConsole\obj\Debug\net10.0\BalatroC.B6159627.Up2Date
